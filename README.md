@@ -7,6 +7,7 @@
   
 - EcmaScript6
   - [ES6 Basics](http://es6-features.org/#Constants)
+  - [Create a Mortgage Calculator using ES6](http://ccoenraets.github.io/es6-tutorial/)
 
 ### JavaScript Books
 
