@@ -16,3 +16,4 @@
 
 - [Mastering JavaScript Functional Programming (2017)](https://drive.google.com/file/d/17cyg2gK7kjOgH1AOKi8na3JYtNcj0YpC/view)
 - [Head First JavaScript Programming (2014)](https://drive.google.com/file/d/0B4hhbFaItiPxd2t2alE3RnRXYlk/view)
+- [JavaScript: Novice to Ninja, 2nd Edition (2017)](https://drive.google.com/file/d/1UbgZm8wJpO7oP1CWbnjBKG4H7NNBBcNK/view)
