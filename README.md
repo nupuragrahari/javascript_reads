@@ -1,9 +1,12 @@
 ## JavaScript Reading material
 
-
-- [Javascript concepts you must know well](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
-- [JavaScript Mozilla Documentation](https://developer.mozilla.org/bm/docs/Web/JavaScript)
-- [Javascript Devdocs](http://devdocs.io/javascript/)
+- General javascript reads
+  - [Javascript concepts you must know well](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
+  - [JavaScript Mozilla Documentation](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+  - [Javascript Devdocs](http://devdocs.io/javascript/)
+  
+- EcmaScript6
+  - [ES6 Basics](http://es6-features.org/#Constants)
 
 ### JavaScript Books
 
