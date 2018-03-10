@@ -10,6 +10,7 @@
   - [ES6 Basics](http://es6-features.org/#Constants)
   - [Create a Mortgage Calculator using ES6](http://ccoenraets.github.io/es6-tutorial/)
   - [How to learn es6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620)
+  - [ES6 tutorial for beginners](https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be)
 
 ### JavaScript Books
 
