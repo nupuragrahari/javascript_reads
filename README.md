@@ -19,6 +19,6 @@
 - [JavaScript: Novice to Ninja, 2nd Edition (2017)](https://drive.google.com/file/d/1UbgZm8wJpO7oP1CWbnjBKG4H7NNBBcNK/view)
 
 
-### JavaScript Video Cources
+### JavaScript Video Courses
 
 - [JavaScript Advanced Tutorials by Codecademy](https://www.youtube.com/playlist?list=PLz1XPAFf8IxbIU78QL158l_KlN9CvH5fg)
