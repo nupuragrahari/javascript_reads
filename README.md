@@ -1,4 +1,4 @@
-## JavaScript Reading material
+## JavaScript Reading Material
 
 - General javascript reads
   - [Javascript concepts you must know well](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
